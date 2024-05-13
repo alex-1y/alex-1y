@@ -4,7 +4,7 @@ Meu nome é Alex Y!
  - Estou estudando no Alura
  - Estou me desenvolvendo na linguagem Javascript!
  - Utilizo esse espaço para minha organização e compartilhamento dos meus projetos desenvolvidos!
-   
+   ![(https://tenor.com/pt-BR/view/jojo-vibe-jjba-gif-18133386]
 
 <!--
 **alex-1y/alex-1y** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
